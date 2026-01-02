@@ -1,6 +1,6 @@
 package com.example.shopapp.di
 
-import androidx.databinding.ktx.BuildConfig
+import com.example.shopapp.BuildConfig
 import com.example.shopapp.common.Constants.BASE_URL
 import com.example.shopapp.data.service.ShopAPI
 import dagger.Module
